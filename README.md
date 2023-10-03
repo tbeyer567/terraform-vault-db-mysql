@@ -1,7 +1,7 @@
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
-None
+MySQL 8.0
 
 ## Providers
 
